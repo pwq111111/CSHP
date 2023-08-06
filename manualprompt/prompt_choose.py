@@ -1,7 +1,7 @@
 import openai
 import re
 
-openai.api_key = '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'
+openai.api_key = ''
 
 def get_manual_prompts(DATASET):
     prompts_choose = []
