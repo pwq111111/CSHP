@@ -1,7 +1,8 @@
 # CSHP
 一种新的小样本图像分类任务PEFT方法（基于CLIP，可扩展为其他）
 # 项目依赖
-CoOp：https://github.com/KaiyangZhou/CoOp\n
+CoOp：https://github.com/KaiyangZhou/CoOp
+
 dassl:https://github.com/KaiyangZhou/Dassl.pytorch
 # 训练及测试方法
 1、下载dassl库
