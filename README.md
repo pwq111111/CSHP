@@ -3,7 +3,7 @@
 # 项目依赖
 CoOp：https://github.com/KaiyangZhou/CoOp
 
-dassl:https://github.com/KaiyangZhou/Dassl.pytorch
+dassl：https://github.com/KaiyangZhou/Dassl.pytorch
 # 训练及测试方法
 1、下载dassl库
 
