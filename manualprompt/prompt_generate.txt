@@ -1,0 +1,3 @@
+Generate some prefix words for category names, making the formed phrases more in line with language habits. The following are the specific requirements:
+1. Category names: apple, milk, pizza, shrimp.
+2. The generated prefix needs to be distinguished by "".

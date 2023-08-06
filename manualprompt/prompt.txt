@@ -1,0 +1,4 @@
+Choose an appropriate prefix for the category names from the prefixes. The following are the specific requirements:
+1. Category names: {}.
+2. Prefixes: {}.
+3. The generated answer should be an element in prefixes.
