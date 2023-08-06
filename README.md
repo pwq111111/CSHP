@@ -1,5 +1,5 @@
 # CSHP
-一种新的小样本图像分类任务PEFT方法（基于CLIP，可扩展为其他）
+一种新的PEFT方法（基于CLIP小样本图像分类任务，可扩展为其他）
 # 项目依赖
 CoOp：https://github.com/KaiyangZhou/CoOp
 
